@@ -13,3 +13,6 @@ Acesse: https://www.entra21.com.br/
 ## Bootstrap
 
 O desafio foi realizar o clone do site somente com o que foi aprendido da framework front-end Bootstrap.
+
+Obs.:
+Há única outra página navegável que é a de currículo.
